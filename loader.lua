@@ -1,5 +1,5 @@
 if game.PlaceId == 11874473440 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Cxetive/OptixHub/main/cft.lua"))()
-elseif game.PlaceId == 11874473440 then
+elseif game.PlaceId == 11542692507 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Cxetive/OptixHub/main/ass.lua"))()
 end
