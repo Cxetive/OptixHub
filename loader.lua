@@ -10,4 +10,6 @@ elseif game.PlaceId == 11700676171 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Cxetive/OptixHub/main/11700676171.lua"))()  
 elseif game.PlaceId == 11162791099 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Cxetive/OptixHub/main/11162791099.lua"))()
+elseif game.PlaceId == 12289293395 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Cxetive/OptixHub/main/12289293395.lua"))()
 end
